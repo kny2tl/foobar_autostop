@@ -38,3 +38,7 @@ Reporting Issues
 Open issues on the project repository with a clear description, steps to reproduce, and logs or console output when relevant.
 Contact
 For questions or contribution coordination, reference the project repository or open an issue/pull request.
+
+SHA256
+d0bcc441d51cb9e0e719cb71945c5f8b18462e214d734579664bbca0a6f1f1ac 
+*foo_autostop.dll
