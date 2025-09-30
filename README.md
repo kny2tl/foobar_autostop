@@ -1,6 +1,6 @@
 Autostop
 Autostop is a small foobar2000 component that can automatically set the player to stop after the current track finishes. The toggle state is persisted per-user.
-Why? Imagine learning a new language and you have dozens of short tracks and with this you can focus on instructions, pronounciation.
+Why? Imagine learning a new language and you have dozens of short tracks and with this you can focus on instructions, pronounciation.<br>
 <img width="234" height="78" alt="image" src="https://github.com/user-attachments/assets/4f74e2b4-046e-46fd-9247-3be34e510fdd" />
 
 Disclaimer
