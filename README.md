@@ -4,8 +4,8 @@ Why? Imagine learning a new language and you have dozens of short tracks and wit
 <img width="234" height="78" alt="image" src="https://github.com/user-attachments/assets/4f74e2b4-046e-46fd-9247-3be34e510fdd" />
 
 Disclaimer
-- Plugin is provided as-is, tested
-- Started as fun project, with minimal coding skills - almost everything is produced by GPT-5 (Copilot)
+- Plugin is provided as-is, tested by myself
+- Started as fun project, with minimal coding skills - almost everything is produced by GPT-5 (Copilot). Any funny code? I'm sure there is.
 
 License
 This project is licensed under the MIT License — see the included LICENSE file for details.
